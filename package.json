@@ -1,0 +1,26 @@
+{
+	"name": "crushomatic",
+	"description": "Compile an HTML page into a single one-line file, css, javascript, images, and all.",
+	"version": "0.1.0",
+	"keywords": ["html", "css", "javascript", "images", "compress", "minify", "inline"],
+	"maintainers": [{
+		"name": "Jacob Wright",
+		"email": "jacwright@gmail.com",
+		"web": "http://jacwright.com"
+	}],
+	"contributors": [{
+		"name": "Jacob Wright",
+		"email": "jacwright@gmail.com",
+		"web": "http://jacwright.com"
+	}],
+	"dependencies": {
+		"uglify-js": "latest",
+		"uglifycss": "latest",
+		"gzip": "latest",
+		"coffee-script": "latest"
+	},
+	"devDependencies": {
+		"jasmine-node": "latest"
+	},
+	"main": "lib/index"
+}
