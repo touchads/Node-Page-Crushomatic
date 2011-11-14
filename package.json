@@ -18,7 +18,8 @@
 		"uglifycss": "latest",
 		"gzip": "latest",
 		"request": "latest",
-		"coffee-script": "latest"
+		"coffee-script": "latest",
+		"gzbz2": "latest"
 	},
 	"devDependencies": {
 		"jasmine-node": "latest"
